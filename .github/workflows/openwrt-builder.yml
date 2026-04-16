@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  workflows: write
   
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
